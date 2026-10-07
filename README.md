@@ -1,127 +1,87 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SHUBHLESH%20SAHU&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Developer%20%7C%20Builder&descAlignY=61&descSize=17&color=gradient&customColorList=0,2,6,12,18&animation=twinkling" width="100%"/>
 
-<!--                         ⚡ SHUBHLESH SAHU ⚡                           -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:312E81,70:2563EB,100:06B6D4&height=260&section=header&text=SHUBHLESH%20SAHU&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=B.Tech%20CSE%20Student%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=17&descAlignY=58&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2300&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=60&lines=%3E+Initializing+Shubhlesh.dev...;%3E+Computer+Science+%26+Engineering+Student;%3E+Code+%7C+Build+%7C+Debug+%7C+Repeat;%3E+Exploring+Web+%7C+Cloud+%7C+Data+%7C+Programming;%3E+Turning+Ideas+Into+Working+Systems+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Hello%2C+I'm+Shubhlesh+Sahu+%F0%9F%91%8B;B.Tech+Computer+Science+%26+Engineering+Student;I+learn+%E2%86%92+build+%E2%86%92+break+%E2%86%92+improve;Turning+ideas+into+code+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sahushubhftp800-ctrl&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sahushubhftp800-ctrl?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=020617" />
-<img src="https://img.shields.io/github/stars/sahushubhftp800-ctrl?label=STARS&style=for-the-badge&color=06B6D4&labelColor=020617" />
+<a href="https://github.com/sahushubhftp800-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shubhlesh-sahu-13b1652b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:sahushubhftp800@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 <br><br>
 
-<a href="https://github.com/sahushubhftp800-ctrl">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://www.linkedin.com/in/shubhlesh-sahu-13b1652b0/">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:sahushubhftp800@gmail.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=sahushubhftp800-ctrl&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/sahushubhftp800-ctrl?style=flat-square&color=8B5CF6&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/sahushubhftp800-ctrl?style=flat-square&color=06B6D4&label=STARS" />
 
 </div>
 
 <br>
 
-🖥️ SYSTEM.PROFILE
-
-<div align="center">
-
-╭────────────────────────────────────────────────────────────────────────────╮
-│                                                                            │
-│   ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗     ███████╗███████╗██╗  ██╗     │
-│   ██╔════╝██║  ██║██║   ██║██╔══██╗██║     ██╔════╝██╔════╝██║  ██║     │
-│   ███████╗███████║██║   ██║██████╔╝██║     █████╗  ███████╗███████║     │
-│   ╚════██║██╔══██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║██╔══██║     │
-│   ███████║██║  ██║╚██████╔╝██████╔╝███████╗███████╗███████║██║  ██║     │
-│   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝     │
-│                                                                            │
-│   ┌────────────────────────────────────────────────────────────────────┐   │
-│   │  USER         : shubhlesh                                           │   │
-│   │  NAME         : Shubhlesh Sahu                                      │   │
-│   │  ROLE         : B.Tech CSE Student                                  │   │
-│   │  ENVIRONMENT  : Development                                         │   │
-│   │  MODE         : Learning • Building • Exploring                    │   │
-│   │  STATUS       : ● ONLINE                                            │   │
-│   └────────────────────────────────────────────────────────────────────┘   │
-│                                                                            │
-╰────────────────────────────────────────────────────────────────────────────╯
-
-</div>
-
-👨‍💻 ABOUT.ME
-
-<div align="center">
+01 — ABOUT ME
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%" valign="top">
 
-⚡ Hello, I'm Shubhlesh Sahu 👋
+👋 Hi, I'm Shubhlesh Sahu
 
-I'm a B.Tech Computer Science & Engineering student passionate about programming, technology, and continuous learning.
+I'm a B.Tech Computer Science & Engineering student who enjoys learning how technology works and turning that knowledge into practical projects.
 
-I enjoy exploring Computer Science, experimenting with modern technologies, building projects, and turning ideas into practical solutions.
+💻 Interested in programming & problem solving
 
-┌──────────────────────────────────────────┐
-│  💡 Think                                │
-│      ↓                                   │
-│  🧠 Learn                                │
-│      ↓                                   │
-│  ⚙️ Experiment                           │
-│      ↓                                   │
-│  🚀 Build                                │
-│      ↓                                   │
-│  🐛 Debug                                │
-│      ↓                                   │
-│  📈 Improve                              │
-│      ↓                                   │
-│  🔁 Repeat                               │
-└──────────────────────────────────────────┘
+🌐 Exploring web development
+
+☁️ Learning cloud technologies
+
+🗄️ Working with databases
+
+📊 Exploring data & computing
+
+🚀 Always building, experimenting and improving
+
+Learn. Build. Break. Debug. Improve. Repeat.
 
 </td>
-<td width="45%">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=320&height=30&lines=Curious+Mind+%7C+Builder+Mindset;Always+Learning+%F0%9F%94%A5" />
 
 </td>
 </tr>
 </table>
 
-</div>
-
-⚡ TECH.ARSENAL
+02 — TECH STACK
 
 <div align="center">
 
-💻 Programming
+Languages
 
 <img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
 
 <br><br>
 
-🌐 Web Development
+Web · Cloud · Data
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-<br><br>
-
-☁️ Cloud & Database
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,aws,gcp,mongodb,mysql&theme=dark" />
 
 <br><br>
 
-🛠️ Tools & Creative Tech
+Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 
@@ -134,19 +94,19 @@ I enjoy exploring Computer Science, experimenting with modern technologies, buil
 
 </div>
 
-🧠 SKILL.MATRIX
+03 — SKILL MATRIX
 
 <div align="center">
 
-⚙️ Domain
+Domain
 
-🚀 Technologies
+Technologies
 
 💻 Programming
 
 C · Java · Python · JavaScript
 
-🌐 Web
+🌐 Web Development
 
 HTML · CSS · JavaScript
 
@@ -172,185 +132,124 @@ Git · GitHub
 
 </div>
 
-🚀 DEVELOPER.OS
+04 — CURRENTLY EXPLORING
 
 <div align="center">
 
-                              ┌─────────────────────┐
-                              │   SHUBHLESH SAHU    │
-                              │     DEVELOPER       │
-                              └──────────┬──────────┘
-                                         │
-             ┌───────────────────────────┼───────────────────────────┐
-             │                           │                           │
-             ▼                           ▼                           ▼
-      ┌───────────────┐          ┌───────────────┐          ┌───────────────┐
-      │     CODE      │          │     BUILD     │          │    EXPLORE    │
-      └───────┬───────┘          └───────┬───────┘          └───────┬───────┘
-              │                          │                          │
-              ▼                          ▼                          ▼
-       C / JAVA / PYTHON          WEB / CLOUD / DB          DATA / DESIGN / TOOLS
-              │                          │                          │
-              └──────────────────────────┼──────────────────────────┘
-                                         ▼
-                              ┌─────────────────────┐
-                              │      IMPROVE        │
-                              └──────────┬──────────┘
-                                         │
-                                         ▼
-                              ┌─────────────────────┐
-                              │         ↻           │
-                              │   NEVER STOP        │
-                              └─────────────────────┘
-
-</div>
-
-🌌 CURRENTLY.EXPLORING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=650&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Programming+%26+Problem+Solving;Web+Development;Cloud+Technologies;Database+Systems;Data+%26+Computing;Modern+Development+Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=700&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Programming+%26+Problem+Solving;Web+Development;Cloud+Technologies;Database+Systems;Data+%26+Computing;Modern+Development+Tools" />
 
 <br>
 
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ◉  PROGRAMMING & PROBLEM SOLVING                        ║
-║   ◉  WEB DEVELOPMENT                                      ║
-║   ◉  CLOUD TECHNOLOGIES                                   ║
-║   ◉  DATABASE SYSTEMS                                     ║
-║   ◉  DATA & COMPUTING                                     ║
-║   ◉  MODERN DEVELOPMENT TOOLS                             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&width=700&color=gradient&customColorList=6,12,18" />
 
 </div>
 
-📊 GITHUB.INTELLIGENCE
+05 — DEVELOPER MINDSET
+
+<div align="center">
+
+          ┌───────────────┐
+          │    CURIOUS    │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │     LEARN     │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │     BUILD     │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │     BREAK     │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │     DEBUG     │
+          └───────┬───────┘
+                  ↓
+          ┌───────────────┐
+          │    IMPROVE    │
+          └───────┬───────┘
+                  │
+                  └───────────↻
+
+"There is always something new to learn."
+
+</div>
+
+06 — GITHUB ANALYTICS
 
 <div align="center">
 
 <a href="https://github.com/sahushubhftp800-ctrl">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahushubhftp800-ctrl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sahushubhftp800-ctrl&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&count_private=true&include_all_commits=true"/>
 </a>
 
 <a href="https://github.com/sahushubhftp800-ctrl">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahushubhftp800-ctrl&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahushubhftp800-ctrl&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&langs_count=8"/>
 </a>
 
-</div>
+<br><br>
 
-🔥 CONTRIBUTION.STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sahushubhftp800-ctrl&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="78%"/>
+<img src="https://streak-stats.demolab.com/?user=sahushubhftp800-ctrl&hide_border=true&background=0B1220&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="72%"/>
 
 </div>
 
-📈 ACTIVITY.MONITOR
+07 — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahushubhftp800-ctrl&bg_color=020617&color=22D3EE&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=SHUBHLESH%20SAHU%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahushubhftp800-ctrl&bg_color=0B1220&color=38BDF8&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=SHUBHLESH%20SAHU%20%E2%80%94%20ACTIVITY" width="94%"/>
 
 </div>
 
-🏆 GITHUB.ACHIEVEMENTS
+08 — ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahushubhftp800-ctrl&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahushubhftp800-ctrl&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="92%"/>
 
 </div>
 
-🐍 CONTRIBUTION.SNAKE
+09 — CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sahushubhftp800-ctrl/sahushubhftp800-ctrl/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/sahushubhftp800-ctrl/sahushubhftp800-ctrl/output/github-contribution-grid-snake-dark.svg" width="92%" alt="GitHub contribution snake"/>
 
 <br>
 
-<sub>🐍 The contribution snake appears after the GitHub Actions workflow is configured.</sub>
+<sub>🐍 Generated automatically through GitHub Actions.</sub>
 
 </div>
 
-🎯 DEVELOPER.PHILOSOPHY
-
-<div align="center">
-
-                         ┌───────────────┐
-                         │     LEARN     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    EXPLORE    │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     BUILD     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     BREAK     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     DEBUG     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    IMPROVE    │
-                         └───────┬───────┘
-                                 │
-                                 └──────────────↻
-
-There is always something new to learn.
-
-</div>
-
-🌐 CONNECT.WITH.ME
+10 — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/sahushubhftp800-ctrl">
-<img src="https://img.shields.io/badge/GitHub-sahushubhftp800--ctrl-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-SHUBHLESH%20SAHU-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubhlesh-sahu-13b1652b0/">
-<img src="https://img.shields.io/badge/LinkedIn-Shubhlesh%20Sahu-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-SHUBHLESH%20SAHU-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:sahushubhftp800@gmail.com">
-<img src="https://img.shields.io/badge/Email-sahushubhftp800%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-CONTACT%20ME-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=800&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=Open+to+Learning+%7C+Building+%7C+Collaborating+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+learn%2C+build+and+grow+together+%F0%9F%9A%80" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   shubhlesh@github:~$ ./keep-growing.sh                 │
-│                                                          │
-│   > Keep Learning.                                       │
-│   > Keep Building.                                       │
-│   > Keep Exploring.                                      │
-│   > Keep Growing.                                        │
-│                                                          │
-│   [████████████████████████████████████████] 100%        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=%3E+Keep+Learning.;%3E+Keep+Building.;%3E+Keep+Exploring.;%3E+Keep+Growing.;%3E+See+you+in+the+next+commit+%F0%9F%9A%80" />
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:312E81,100:020617&height=170&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=18,12,6,2,0&animation=twinkling" width="100%"/>
 
 </div>
