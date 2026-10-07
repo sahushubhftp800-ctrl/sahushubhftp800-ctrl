@@ -1,29 +1,31 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    HERO / HEADER                            -->
+<!--                       ANIMATED HERO                            -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:06B6D4&height=230&section=header&text=SHUBHLESH%20SAHU&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:312E81,80:2563EB,100:06B6D4&height=230&section=header&text=SHUBHLESH%20SAHU&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=%3E+Initializing+Shubhlesh.dev...;%3E+B.Tech+Computer+Science+Student;%3E+Learning+%7C+Building+%7C+Exploring;%3E+Turning+Ideas+Into+Code;%3E+Always+Learning+Something+New+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Initializing+Shubhlesh.dev...;B.Tech+CSE+Student;Turning+Ideas+Into+Code;Learning+%7C+Building+%7C+Exploring;Welcome+to+my+digital+workspace+%F0%9F%9A%80" />
+<img src="https://komarev.com/ghpvc/?username=sahushubhftp800-ctrl&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://github.com/sahushubhftp800-ctrl">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/shubhlesh-sahu-13b1652b0/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;
-<a href="mailto:sahushubhftp800@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
+<a href="mailto:[sahushubhftp800@gmail.com](mailto:sahushubhftp800@gmail.com)">
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
@@ -32,86 +34,99 @@
 
 ---
 
-## `01` — SYSTEM PROFILE
+# 🖥️ `SYSTEM.PROFILE`
 
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗     ███████╗███████╗██╗  ██╗ │
-│   ██╔════╝██║  ██║██║   ██║██╔══██╗██║     ██╔════╝██╔════╝██║  ██║ │
-│   ███████╗███████║██║   ██║██████╔╝██║     █████╗  ███████╗███████║ │
-│   ╚════██║██╔══██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║██╔══██║ │
-│   ███████║██║  ██║╚██████╔╝██████╔╝███████╗███████╗███████║██║  ██║ │
-│   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ │
-│                                                                      │
-│   > user              : shubhlesh                                   │
-│   > role              : B.Tech CSE Student                          │
-│   > environment       : Development                                 │
-│   > mindset           : Learn • Build • Explore                     │
-│   > status            : ● ONLINE                                    │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+│                                                                        │
+│   ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗     ███████╗███████╗██╗  ██╗   │
+│   ██╔════╝██║  ██║██║   ██║██╔══██╗██║     ██╔════╝██╔════╝██║  ██║   │
+│   ███████╗███████║██║   ██║██████╔╝██║     █████╗  ███████╗███████║   │
+│   ╚════██║██╔══██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║██╔══██║   │
+│   ███████║██║  ██║╚██████╔╝██████╔╝███████╗███████╗███████║██║  ██║   │
+│   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝   │
+│                                                                        │
+│   user          : shubhlesh                                             │
+│   name          : Shubhlesh Sahu                                        │
+│   role          : B.Tech CSE Student                                   │
+│   environment   : Development                                           │
+│   mode          : Learning • Building • Exploring                      │
+│   status        : ● ONLINE                                              │
+│                                                                        │
+╰────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 `ABOUT.ME`
 
-> **Hello, I'm Shubhlesh Sahu.**
-
-I'm a **B.Tech Computer Science & Engineering student** passionate about programming, technology and building things with code.
-
-I enjoy exploring different areas of Computer Science and continuously expanding my technical skill set.
+<div align="center">
 
 ```text
-┌─ CURRENT MISSION ─────────────────────────────────────────┐
-│                                                            │
-│  Learn → Experiment → Build → Improve → Repeat            │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│   Hello, I'm Shubhlesh Sahu 👋                                   │
+│                                                                  │
+│   B.Tech Computer Science & Engineering student passionate      │
+│   about programming, technology and continuous learning.        │
+│                                                                  │
+│   I enjoy exploring Computer Science, experimenting with          │
+│   different technologies and turning ideas into code.            │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br>
+
+### ⚡ My Mission
+
+```text
+LEARN
+  ↓
+EXPLORE
+  ↓
+EXPERIMENT
+  ↓
+BUILD
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+REPEAT ↻
 ```
 
 ---
 
 # ⚡ `TECH.ARSENAL`
 
-### 💻 Languages
-
 <div align="center">
+
+### 💻 PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 
-</div>
+<br><br>
 
-<br>
-
-### 🌐 Web Technologies
-
-<div align="center">
+### 🌐 WEB DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-</div>
+<br><br>
 
-<br>
-
-### ☁️ Cloud & Databases
-
-<div align="center">
+### ☁️ CLOUD & DATABASE
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql" />
 
-</div>
+<br><br>
 
-<br>
-
-### 🛠️ Development Tools
-
-<div align="center">
+### 🛠️ TOOLS & CREATIVE TECH
 
 <img src="https://skillicons.dev/icons?i=git,github,figma" />
 
@@ -130,15 +145,48 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 <div align="center">
 
-|     DOMAIN     | STACK                            |
-| :------------: | :------------------------------- |
-| 💻 Programming | `C` `Java` `Python` `JavaScript` |
-|     🌐 Web     | `HTML` `CSS` `JavaScript`        |
-|    ☁️ Cloud    | `AWS` `Google Cloud`             |
-|  🗄️ Database  | `MongoDB` `MySQL`                |
-|     📊 Data    | `NumPy` `Pandas`                 |
-|    🎨 Design   | `Figma` `Canva` `Adobe`          |
-|    🔧 Tools    | `Git` `GitHub`                   |
+<table>
+<tr>
+<th>⚙️ DOMAIN</th>
+<th>🚀 TECHNOLOGIES</th>
+</tr>
+
+<tr>
+<td><b>Programming</b></td>
+<td><code>C</code> <code>Java</code> <code>Python</code> <code>JavaScript</code></td>
+</tr>
+
+<tr>
+<td><b>Web</b></td>
+<td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+</tr>
+
+<tr>
+<td><b>Cloud</b></td>
+<td><code>AWS</code> <code>Google Cloud</code></td>
+</tr>
+
+<tr>
+<td><b>Database</b></td>
+<td><code>MongoDB</code> <code>MySQL</code></td>
+</tr>
+
+<tr>
+<td><b>Data</b></td>
+<td><code>NumPy</code> <code>Pandas</code></td>
+</tr>
+
+<tr>
+<td><b>Design</b></td>
+<td><code>Figma</code> <code>Canva</code> <code>Adobe</code></td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td><code>Git</code> <code>GitHub</code></td>
+</tr>
+
+</table>
 
 </div>
 
@@ -146,29 +194,37 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 # 🚀 `DEVELOPER.OS`
 
+<div align="center">
+
 ```text
-                         ┌───────────────┐
-                         │   SHUBHLESH   │
-                         │   DEVELOPER   │
-                         └───────┬───────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-       ┌───────────┐       ┌───────────┐       ┌───────────┐
-       │  CODE     │       │   BUILD   │       │  EXPLORE  │
-       └─────┬─────┘       └─────┬─────┘       └─────┬─────┘
-             │                   │                   │
-             ▼                   ▼                   ▼
-        C / JAVA            WEB / CLOUD          DATA / TOOLS
-        PYTHON / JS         AWS / GCP            NUMPY / PANDAS
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 ▼
-                         ┌───────────────┐
-                         │   IMPROVE     │
-                         └───────────────┘
+                              ┌─────────────────┐
+                              │   SHUBHLESH     │
+                              │    DEVELOPER    │
+                              └────────┬────────┘
+                                       │
+              ┌────────────────────────┼────────────────────────┐
+              │                        │                        │
+              ▼                        ▼                        ▼
+       ┌──────────────┐        ┌──────────────┐        ┌──────────────┐
+       │     CODE     │        │     BUILD    │        │   EXPLORE    │
+       └──────┬───────┘        └──────┬───────┘        └──────┬───────┘
+              │                       │                       │
+              ▼                       ▼                       ▼
+       C / JAVA / PYTHON      WEB / CLOUD / DB       DATA / DESIGN / TOOLS
+              │                       │                       │
+              └───────────────────────┼───────────────────────┘
+                                      ▼
+                              ┌──────────────┐
+                              │   IMPROVE    │
+                              └──────┬───────┘
+                                     │
+                                     ▼
+                              ┌──────────────┐
+                              │      ↻       │
+                              └──────────────┘
 ```
+
+</div>
 
 ---
 
@@ -176,17 +232,21 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Programming+%26+Problem+Solving;Web+Development;Cloud+Technologies;Database+Systems;Data+%26+Computing;Modern+Development+Tools" />
+
+<br><br>
+
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  ◉ PROGRAMMING                                      ║
-║  ◉ WEB DEVELOPMENT                                  ║
-║  ◉ CLOUD TECHNOLOGIES                               ║
-║  ◉ DATABASE SYSTEMS                                 ║
-║  ◉ DATA & COMPUTING                                ║
-║  ◉ MODERN DEVELOPMENT TOOLS                         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ◉ PROGRAMMING                                         ║
+║   ◉ WEB DEVELOPMENT                                     ║
+║   ◉ CLOUD TECHNOLOGIES                                  ║
+║   ◉ DATABASE SYSTEMS                                    ║
+║   ◉ DATA & COMPUTING                                    ║
+║   ◉ DEVELOPMENT TOOLS                                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -197,9 +257,9 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sahushubhftp800-ctrl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=sahushubhftp800-ctrl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&border_color=1E293B" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahushubhftp800-ctrl&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" width="40%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahushubhftp800-ctrl&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&border_color=1E293B" width="40%"/>
 
 </div>
 
@@ -209,7 +269,7 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sahushubhftp800-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="75%"/>
+<img src="https://streak-stats.demolab.com/?user=sahushubhftp800-ctrl&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="76%"/>
 
 </div>
 
@@ -219,7 +279,17 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahushubhftp800-ctrl&bg_color=020617&color=22D3EE&line=7C3AED&point=06B6D4&area_color=312E81&area=true&hide_border=true&custom_title=Shubhlesh%20Sahu%20%E2%80%94%20Contribution%20Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahushubhftp800-ctrl&bg_color=020617&color=22D3EE&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=SHUBHLESH%20SAHU%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="96%"/>
+
+</div>
+
+---
+
+# 🏆 `GITHUB.ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahushubhftp800-ctrl&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
 
 </div>
 
@@ -233,40 +303,42 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 </div>
 
-> ⚠️ **Snake animation requires the GitHub Actions workflow to be configured in the repository.**
+<p align="center">
+<sub>Contribution snake appears after the GitHub Actions workflow has been configured.</sub>
+</p>
 
 ---
 
-# 🎯 `MY.DEVELOPER.PHILOSOPHY`
+# 🎯 `DEVELOPER.PHILOSOPHY`
 
 <div align="center">
 
 ```text
-       ┌───────────┐
-       │   LEARN   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  EXPLORE  │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │   BUILD   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │   BREAK   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  DEBUG    │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  IMPROVE  │
-       └─────┬─────┘
-             │
-             └───────────────↻
+                         ┌─────────────┐
+                         │    LEARN    │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │   EXPLORE   │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    BUILD    │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    BREAK    │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    DEBUG    │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │   IMPROVE   │
+                         └──────┬──────┘
+                                │
+                                └──────────────↻
 ```
 
 ### `There is always something new to learn.`
@@ -275,7 +347,7 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 ---
 
-# 🌐 `CONNECT`
+# 🌐 `CONNECT.WITH.ME`
 
 <div align="center">
 
@@ -287,7 +359,7 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 <img src="https://img.shields.io/badge/LinkedIn-Shubhlesh%20Sahu-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:sahushubhftp800@gmail.com">
+<a href="mailto:[sahushubhftp800@gmail.com](mailto:sahushubhftp800@gmail.com)">
 <img src="https://img.shields.io/badge/Email-sahushubhftp800%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
@@ -297,18 +369,12 @@ I enjoy exploring different areas of Computer Science and continuously expanding
 
 <div align="center">
 
-## `shubhlesh@github:~$`
+# `shubhlesh@github:~$`
 
-```text
-> Keep Learning.
-> Keep Building.
-> Keep Exploring.
-```
-
-<img src="https://komarev.com/ghpvc/?username=sahushubhftp800-ctrl&label=PROFILE%20VISITORS&color=22D3EE&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+Keep+Learning.;%3E+Keep+Building.;%3E+Keep+Exploring.;%3E+Keep+Growing." />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:312E81,100:020617&height=150&section=footer" width="100%"/>
 
 </div>
