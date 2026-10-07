@@ -1,18 +1,19 @@
 <div align="center">
 
-# 👨‍💻 Karunesh Gupta
+<!-- GitHub Theme-Aware Hero Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:22D3EE&height=200&section=header&text=KARUNESH%20GUPTA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Karunesh Gupta Header"/>
+</picture>
 
-### `Cybersecurity Developer` • `Research Aspirant` • `Tech Enthusiast`
+### 🛡️ `Cybersecurity Developer` • `Research Aspirant` • `Computer Science Undergrad`
 
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Cryptography-0F172a?style=for-the-badge&logo=hackthebox&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Education-B.Tech_CSE_@_Allenhouse-0F172a?style=for-the-badge&logo=graduation-cap&logoColor=10B981"/>
+  <img src="https://img.shields.io/badge/Goal-GATE_CS_%7C_IIT_Kanpur-0F172a?style=for-the-badge&logo=target&logoColor=F59E0B"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=160&section=header&text=SECURE%20THE%20FUTURE&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 </div>
 
@@ -21,17 +22,17 @@
 ## 🖥️ `SYSTEM.INFO`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  karunesh@profile:~$ ./profile.sh                           │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  NAME        → Karunesh Gupta                               │
-│  ROLE        → Cybersecurity Developer / Research Aspirant  │
-│  EDUCATION   → B.Tech · Allenhouse Institute of Technology  │
-│  STATUS      → 6th Semester                                │
-│  FOCUS       → Cybersecurity · Secure Communication         │
-│  INTEREST    → Quantum Cryptography                         │
-│                                                             │
-│  MODE        → LEARNING / BUILDING / RESEARCH               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ karunesh@security-lab:~$ ./init_profile.sh                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   NAME        → Karunesh Gupta                                              │
+│   ROLE        → Cybersecurity Developer & Computer Science Scholar          │
+│   COLLEGE     → Allenhouse Institute of Technology                          │
+│   DEGREE      → B.Tech in Computer Science & Engineering                    │
+│   TARGET      → GATE CS Aspirant · Target: IIT Kanpur                       │
+│   CORE FOCUS  → Network Security · Cryptography · Systems Architecture       │
+│   INTERESTS   → Quantum Cryptography · Secure Protocols · Cloud Security    │
+│   STATUS      → Building CyberMastery Hub & Researching Secure Systems      │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
