@@ -1,33 +1,37 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Karunesh Gupta - Engineering & Cybersecurity Hero Banner" src="./dark.svg" width="100%">
-</picture>
+# 👨‍💻 Karunesh Gupta
+
+### `Cybersecurity Developer` • `Research Aspirant` • `Tech Enthusiast`
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=160&section=header&text=SECURE%20THE%20FUTURE&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-Hello! I am **Karunesh Gupta**, a Computer Science & Engineering student at **Allenhouse College**, dedicated to building secure, scalable systems and understanding fundamental computer architectures.
-
-- 🛡️ **Primary Specialization:** Cybersecurity, Ethical Hacking, & Network Infrastructure
-- 📚 **Academic Target:** Preparing for GATE CSE with a long-term goal of pursuing advanced research at **IIT Kanpur**
-- ⚡ **Engineering Focus:** Computer Networks, Compiler Design, Data Structures & Algorithms, and Offline-First Web Architectures
-
----
-
-### 🛠️ Core Engineering Stack
+## 🖥️ `SYSTEM.INFO`
 
 ```text
-┌──────────────────────────┬──────────────────────────────────────────────────────────┐
-│ Category                 │ Technologies & Focus Areas                               │
-├──────────────────────────┼──────────────────────────────────────────────────────────┤
-│ Core Languages           │ C, C++, JavaScript, HTML5/CSS3                            │
-│ Systems & Security       │ Computer Networks, Ethical Hacking, Network Security     │
-│ Theoretical CS           │ Compiler Design, DSA, Hashing Algorithms, Lexical Tokens │
-│ Architecture             │ Offline-First Web Platforms, Hyperlocal Community Models │
-└──────────────────────────┴──────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  karunesh@profile:~$ ./profile.sh                           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  NAME        → Karunesh Gupta                               │
+│  ROLE        → Cybersecurity Developer / Research Aspirant  │
+│  EDUCATION   → B.Tech · Allenhouse Institute of Technology  │
+│  STATUS      → 6th Semester                                │
+│  FOCUS       → Cybersecurity · Secure Communication         │
+│  INTEREST    → Quantum Cryptography                         │
+│                                                             │
+│  MODE        → LEARNING / BUILDING / RESEARCH               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
